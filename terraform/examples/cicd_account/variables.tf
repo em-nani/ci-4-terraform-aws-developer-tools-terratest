@@ -19,7 +19,7 @@ variable "cross_account_roles" {
 }
 
 variable "git_repository_name" {
-  description = "Name of the remote git repository to be created"
+  description = "ci-test"
   type        = string
 }
 
